@@ -1,4 +1,4 @@
 import * as dotenv from 'dotenv';
 dotenv.config();
 
-import './src/bot';
+import './src/local-bot';

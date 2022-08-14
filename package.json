@@ -12,6 +12,7 @@
     "format:fix": "prettier -c ./src --config .prettierrc --write"
   },
   "dependencies": {
+    "@types/aws-lambda": "^8.10.102",
     "dotenv": "^16.0.1",
     "eris": "^0.17.1"
   },
